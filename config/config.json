@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "banco123",
+    "database": "projeto-tg",
+    "host": "projeto-tg.cfae0qo0q365.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "banco123",
+    "database": "projeto-tg",
+    "host": "projeto-tg.cfae0qo0q365.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "banco123",
+    "database": "projeto-tg",
+    "host": "projeto-tg.cfae0qo0q365.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
